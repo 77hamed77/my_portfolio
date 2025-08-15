@@ -6,7 +6,7 @@ A dynamic and responsive personal portfolio website designed to showcase my skil
 
 ---
 
-![Portfolio Screenshot](https://i.postimg.cc/8P4Y7Y8c/Portfolio-Screenshot.png)
+![Portfolio Screenshot](https://i.postimg.cc/fy9JrysH/Portfolio-Screenshot.png)
 
 
 ## 🌟 About The Project
